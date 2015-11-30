@@ -46,6 +46,5 @@ RUNNING PYCHAT:
    	-> Enjoy chatting on PyChat
 
 REMEMBER:
-	-> ctrl + C closes the program safely, closing the program safely is essential for the chat framework to store the chat history
+	-> ctrl + c closes the program safely, closing the program safely is essential for the chat framework to store the chat history
 	-> Closing the program abruptly by force closing the terminal window results in loss of chat history and loss of connection with the server/client
-
