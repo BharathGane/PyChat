@@ -2,7 +2,7 @@
 A LAN based P2P chat server, developed using Python Network Programming (SOCKETS)
 Project by: T.Aditya
 
-KEY FEATURES:
+<b>KEY FEATURES:</b><br/>
 	-> Connects over LAN / WLAN using IP Address and Port
 	-> Reads out messages as and when you receive a message
 	-> User can create chat nicknames
