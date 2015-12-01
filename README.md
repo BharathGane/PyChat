@@ -1,6 +1,6 @@
 # PyChat
 A LAN based P2P chat server, developed using Python Network Programming (SOCKETS)<br/>
-Project by: T.Aditya
+Project by: Aditya Thiruvengadam, IIIT Bangalore
 
 <b>KEY FEATURES:</b><br/>
 	-> Connects over LAN / WLAN using IP Address and Port<br/>
